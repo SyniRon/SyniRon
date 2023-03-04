@@ -20,3 +20,4 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_display: large
           config_timezone: America/New_York
+          plugin_isocalendar: yes
