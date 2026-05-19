@@ -5,15 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/default/0-profile-details.svg" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/default/3-stats.svg" />
-  <img src="./profile-summary-card-output/default/4-productive-time.svg" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" />
-  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SyniRon&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyniRon&layout=compact&theme=tokyonight" alt="Top languages" />
+  </a>
 </p>
 
 <hr>
