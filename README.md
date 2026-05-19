@@ -1,6 +1,20 @@
 <hr>
 
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution chart" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/default/3-stats.svg" />
+  <img src="./profile-summary-card-output/default/4-productive-time.svg" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" />
+</p>
 
 <hr>
 
